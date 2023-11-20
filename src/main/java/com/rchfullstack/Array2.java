@@ -1,4 +1,5 @@
 package com.rchfullstack;
+
 public class Array2 {
     public static int indexOf(int array[], int target) {
         for (int i = 0; i < array.length; i++) {
