@@ -14,9 +14,28 @@ public class Main {
 //
 //        Array4 exercises4 = new Array4();
 //        exercises4.exerFour();
+//
+//        Array5 exercises5 = new Array5();
+//        exercises5.exerFive();
+//
+//        Array6 exercises6 = new Array6();
+//        exercises6.exerSix();
+//
+//        Array7 exercises7 = new Array7();
+//        exercises7.exerSeven();
+//
+//        Array8 exercises8 = new Array8();
+//        exercises8.exerEight();
+//
+//        Array9 exercises9 = new Array9();
+//        exercises9.exerNine();
+//
+        Array10 exercises10 = new Array10();
+        exercises10.exerTen();
 
-        Array5 exercises5 = new Array5();
-        exercises5.exerFive();
+//        Array11 exercises11 = new Array11();
+//        exercises11.exerEleven();
+
 
 
 
