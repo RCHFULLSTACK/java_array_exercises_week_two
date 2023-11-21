@@ -30,11 +30,17 @@ public class Main {
 //        Array9 exercises9 = new Array9();
 //        exercises9.exerNine();
 //
-        Array10 exercises10 = new Array10();
-        exercises10.exerTen();
-
+//        Array10 exercises10 = new Array10();
+//        exercises10.exerTen();
+//
 //        Array11 exercises11 = new Array11();
 //        exercises11.exerEleven();
+
+//        Array12 exercises12 = new Array12();
+//        exercises12.exerTwelve();
+
+        Array13 exercises13 = new Array13();
+        exercises13.exerThirteen();
 
 
 
